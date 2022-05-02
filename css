@@ -1,0 +1,31 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main {
+    width: 100vw;
+    height: 100vw;
+    background-color: rgb(213, 213, 213);
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    padding-top: 30px;
+}
+div{
+    background-color: white;
+    padding-bottom: 10px;
+}
+h2{
+    padding: 20px 0 20px 0;
+    font-size: 20pxs;
+}
+
+ul li{
+   
+   
+}
+
+footer{
+    font-size: 20px;
+    padding: 20px 0 20px 0;
+}
