@@ -21,6 +21,8 @@ h2{
 }
 
 ul li{
+   width: 500px;
+   display: inline-block;
    
    
 }
